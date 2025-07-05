@@ -18,19 +18,19 @@
    git clone https://github.com/afrananas/mechbond_bd.git
    cd mechbond_bd
 composer install
-🔍 Features
-🛠️ Appointment Validation & Processing
-Validates inputs, ensures mechanic availability, and prevents double bookings.
+#🔍 Features
+##🛠️ Appointment Validation & Processing
+**Validates inputs, ensure mechanic availability, and prevents double bookings.**
 
-🚗 Real-Time Booking Interface
-Users can select mechanics and view available time slots via a dynamic booking form.
+#🚗 Real-Time Booking Interface
+**Users can select mechanics and view available time slots via a dynamic booking form.**
 
-🔐 Secure Admin Controls
-Admin features include authentication, appointment approval, editing, and overall session management.
+#🔐 Secure Admin Controls
+**Admin features include authentication, appointment approval, editing, and overall session management.**
 
-🧩 Modular Architecture
-Organized components for database access, shared layout (header/footer), and utility functions—making the code clean and maintainable.
-mechbond_bd/
+#🧩 Modular Architecture
+**Organized components for database access, shared layout (header/footer), and utility functions—making the code clean and maintainable.**
+**mechbond_bd/
 ├── public/              # Entry point (index.php), CSS, JS assets
 ├── admin/               # Admin panel scripts
 ├── booking/             # Booking-related handlers
@@ -39,10 +39,11 @@ mechbond_bd/
 ├── database/            # SQL schema and seed data
 ├── vendor/              # Composer-managed dependencies
 ├── composer.json        # PHP dependencies
-└── README.md            # This documentation
-📄 License
-This project is released under the MIT License. See LICENSE for details.
+└── README.md            # This documentation**
 
-👨‍💻 Author
-Afran Anas
+#📄 License
+**This project is released under the MIT License. See LICENSE for details.**
+
+##👨‍💻 Author
+**Afran Anas**
 GitHub: @afrananas
