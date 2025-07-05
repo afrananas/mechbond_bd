@@ -18,10 +18,11 @@
    git clone https://github.com/afrananas/mechbond_bd.git
    cd mechbond_bd
 composer install
-#🔍 Features
-##🛠️ Appointment Validation & Processing
-**Validates inputs, ensure mechanic availability, and prevents double bookings.**
 
+🔍 #Features
+🛠️ **Appointment Validation & Processing**
+Validates inputs, ensure mechanic availability, and prevents double bookings.
+---
 #🚗 Real-Time Booking Interface
 **Users can select mechanics and view available time slots via a dynamic booking form.**
 
