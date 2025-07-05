@@ -20,6 +20,7 @@
 composer install
 
 🔍 Features
+
 🛠️ **Appointment Validation & Processing**
 Validates inputs, ensure mechanic availability, and prevents double bookings.
 
@@ -34,6 +35,7 @@ Validates inputs, ensure mechanic availability, and prevents double bookings.
 **Organized components for database access, shared layout (header/footer), and utility functions—making the code clean and maintainable.
 
 
-👨‍💻 Author
+👨‍💻 Author:
 **Afran Anas**
+
 GitHub: @afrananas
