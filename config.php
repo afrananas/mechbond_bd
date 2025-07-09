@@ -22,7 +22,7 @@ if (headers_sent($file, $line)) {
 define('DB_HOST', '127.0.0.1');
 define('DB_NAME', 'workshop_appointments');
 define('DB_USER', 'root');
-define('DB_PASS', '12164124@RytniXaA');
+define('DB_PASS', '');
 define('DB_CHARSET', 'utf8mb4');
 
 
